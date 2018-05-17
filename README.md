@@ -36,3 +36,12 @@ An outline of the nombi project
     Andes
     
   ### Australia
+
+## Major Line Branches
+
+## Side Lines
+
+## Time Intervals
+
+Will try to uphold a 50 year interval whenerver and wherever possible
+

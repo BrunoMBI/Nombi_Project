@@ -3,26 +3,35 @@ An outline of the nombi project
 
 -List of the major and minor divisions:
 
-  Europe
+  -Europe
+  
     Eastern
     Western
   	Northern
-  Asia
+  -Asia
+  
     Middle East
     South Asia
     Russia
     Indonesia
-  Africa
+    
+  -Africa
+  
     Northern
     Sahara
     Middle
     West
     South
-  North America
+    
+  -North America
+  
     Northern Territories
     United States
     Middle America
-  South America
+    
+  -South America
+  
     Amazon
     Andes
-  Australia
+    
+  -Australia

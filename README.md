@@ -2,10 +2,11 @@
 An outline of the nombi project
 
 -List of the major and minor divisions:
+
   Europe
     Eastern
     Western
-    Northern
+  	Northern
   Asia
     Middle East
     South Asia

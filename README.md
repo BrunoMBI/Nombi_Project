@@ -1,4 +1,4 @@
-# Nombi_Project
+# WorldAxel_Project
 An outline of the nombi project
 
 ## List of the major and minor divisions
